@@ -3428,7 +3428,7 @@ end
 if (matches[1] == "help" and not Clang) and is_mod(msg) then
 if not lang then
 text = [[
-*Beyond Bot Commands:*
+*Kiava Bot Commands:*
 
 *!setowner* `[username|id|reply]` 
 _Set Group Owner(Multi Owner)_
@@ -3741,7 +3741,7 @@ end
 if (matches[1] == "راهنما" and Clang) and is_mod(msg) then
 if not lang then
 text = [[
-*Beyond Bot Commands:*
+*Kiava Bot Commands:*
 
 *مالک* `[username|id|reply]` 
 _Set Group Owner(Multi Owner)_
